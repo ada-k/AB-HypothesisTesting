@@ -17,3 +17,5 @@ The task at hand is to design a reliable hypothesis testing algorithm for the BI
 
 `pip install -i https://test.pypi.org/simple/ AB-tests==0.0.1`
 
+**PS**: Notebooks in the kernels folder.
+
