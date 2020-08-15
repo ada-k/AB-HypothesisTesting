@@ -12,3 +12,12 @@ The task at hand is to design a reliable hypothesis testing algorithm for the BI
 * Sequential A/B testing.
 * Classic A/B testing.
 * A/B testing with Machine Learning.
+
+**Files organisation**:
+
+The Notebooks are in the folder *kernels*.
+
+Python scripts equivalent to the notebooks are in *scripts*
+
+
+
