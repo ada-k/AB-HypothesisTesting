@@ -13,11 +13,7 @@ The task at hand is to design a reliable hypothesis testing algorithm for the BI
 * Classic A/B testing.
 * A/B testing with Machine Learning.
 
-**Files organisation**:
+**Installation**
 
-The Notebooks are in the folder *kernels*.
-
-Python scripts equivalent to the notebooks are in *scripts*
-
-
+`pip install -i https://test.pypi.org/simple/ AB-tests==0.0.1`
 
