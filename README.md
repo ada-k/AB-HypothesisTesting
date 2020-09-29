@@ -19,7 +19,7 @@ The classical test shows a 1.2% lift in brand awareness which is higher than the
 ### Project Structure
 The repository has a number of files that include notebooks, slides and setup files. They include:
 
-`README.md` : Markdown text with a brief explanation of how the project and the repository structure.
+`README.md` : Markdown text with a brief explanation of the project and the repository structure.
 
 `LICENCE` : License template.
 
