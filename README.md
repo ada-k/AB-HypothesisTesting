@@ -29,26 +29,26 @@ The repository has a number of files that include notebooks, slides and setup fi
 
 `kernels folder`: Has 4 jupyter notebooks:
 
-  `1. ML_testing.ipynb` - Machine Learn Approach to the AB test.
-  
- ` 2. classic_testing.ipynb`- Classic AB testing approach.
- 
- ` 3. sequential_testing.ipynb`- Sequential AB testing approach. 
- 
-  `4. eda.ipynb`- Notebooks containing the explatory data analysis for the project
+   `1. ML_testing.ipynb` - Machine Learn Approach to the AB test.
+
+  ` 2. classic_testing.ipynb`- Classic AB testing approach.
+
+  ` 3. sequential_testing.ipynb`- Sequential AB testing approach. 
+
+   `4. eda.ipynb`- Notebooks containing the explatory data analysis for the project
   
  
 `scripts folder`: Has 4 python scripts:
      
-  `1. ML_testing.py` - python script for the ML notebook.
-  
- ` 2. classic_testing.py`- python script for the classic ab testing notebook.
- 
- ` 3. sequential_testing.py`- python script for the sequential ab testing notebook.
- 
-  `4. eda.py`-python script for the eda notebook.
-  
-  `5.txt_file _merger.py`- Requirements files merger.
+   `1. ML_testing.py` - python script for the ML notebook.
+
+  ` 2. classic_testing.py`- python script for the classic ab testing notebook.
+
+  ` 3. sequential_testing.py`- python script for the sequential ab testing notebook.
+
+   `4. eda.py`-python script for the eda notebook.
+
+   `5.txt_file _merger.py`- Requirements files merger.
 
 
 `setup.py, AB-HypothesisTesting, dist, build/lib/AB-HypothesisTesting, AB_tests.egg-info` : Pip setup files.
